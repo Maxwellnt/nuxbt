@@ -1,6 +1,30 @@
 # CHANGELOG
 
 
+## v3.2.0 (2026-02-25)
+
+### Bug Fixes
+
+- **vagrant**: Fixed Vagrant file and setup ([#38](https://github.com/hannahbee91/nuxbt/pull/38),
+  [`4309788`](https://github.com/hannahbee91/nuxbt/commit/4309788c2cde9f0a0171a42d1af141597f11d415))
+
+Now uses a proper 24.04 image and installation instructions
+
+Closes #36
+
+### Features
+
+- **web**: Replaced websockets with webrtc for better latency
+  ([#39](https://github.com/hannahbee91/nuxbt/pull/39),
+  [`b48c9de`](https://github.com/hannahbee91/nuxbt/commit/b48c9de87fdfee5008bc8e090881b24d51716e39))
+
+* feat(web): Replaced websockets with webrtc for better latency
+
+* fix(misc): Fixed poetry.lock file
+
+* fix(tests): Update tests to not use wsproto
+
+
 ## v3.1.2 (2026-01-02)
 
 ### Bug Fixes
