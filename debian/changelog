@@ -1,3 +1,15 @@
+nuxbt (3.2.1-1) noble; urgency=medium
+
+  * New release 3.2.1
+  * ### Bug Fixes
+  * **cli**: Set prog_name in version option for correct --version
+    output
+  *
+    ([`c7e5ef8`](https://github.com/hannahbee91/nuxbt/commit/c7e5ef8f140
+    a1740ba36adbcc33dfbacb7a66bc4))
+
+ -- NUXBT Releases <nuxbt@hannahis.gay>  Wed, 18 Mar 2026 15:19:30 +0000
+
 nuxbt (3.2.0-1) noble; urgency=medium
 
   * New release 3.2.0
