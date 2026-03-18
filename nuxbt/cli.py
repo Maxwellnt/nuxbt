@@ -120,7 +120,7 @@ def ensure_plugin_enabled():
               help="Specifies a custom file path for logging.")
 @click.option('-d', '--debug', is_flag=True, default=False,
               help="Enables debug mode in nuxbt.")
-@click.version_option(__version__)
+@click.version_option(__version__, prog_name="nuxbt")
 @pass_context
 def main(ctx, enable_logging, logfile, debug):
     """
