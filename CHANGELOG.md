@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v3.2.1 (2026-03-18)
+
+### Bug Fixes
+
+- **cli**: Set prog_name in version option for correct --version output
+  ([`c7e5ef8`](https://github.com/hannahbee91/nuxbt/commit/c7e5ef8f140a1740ba36adbcc33dfbacb7a66bc4))
+
+
 ## v3.2.0 (2026-02-25)
 
 ### Bug Fixes
