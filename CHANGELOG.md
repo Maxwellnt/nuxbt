@@ -1,6 +1,18 @@
 # CHANGELOG
 
 
+## v3.2.2 (2026-05-12)
+
+### Bug Fixes
+
+- **input**: Fix button drops
+  ([`dba2bd4`](https://github.com/hannahbee91/nuxbt/commit/dba2bd43bd6eee32e08974bad9d5cc9d0aee35e4))
+
+* fix(server.py): Send messages multiple times when button is pressed
+
+* fix(input.py): Prevent input queue from growing infinitely
+
+
 ## v3.2.1 (2026-03-18)
 
 ### Bug Fixes
