@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v3.3.1 (2026-05-12)
+
+### Bug Fixes
+
+- **build**: Fix multi-distro uploads ([#57](https://github.com/hannahbee91/nuxbt/pull/57),
+  [`25243c6`](https://github.com/hannahbee91/nuxbt/commit/25243c6e504848fd843d055dfd76f5a68490d889))
+
+
 ## v3.3.0 (2026-05-12)
 
 ### Features
