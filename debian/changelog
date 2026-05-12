@@ -1,3 +1,16 @@
+nuxbt (3.2.2-1) noble; urgency=medium
+
+  * New release 3.2.2
+  * ### Bug Fixes
+  * **input**: Fix button drops
+  *
+    ([`dba2bd4`](https://github.com/hannahbee91/nuxbt/commit/dba2bd43bd6
+    eee32e08974bad9d5cc9d0aee35e4))
+  * fix(server.py): Send messages multiple times when button is pressed
+  * fix(input.py): Prevent input queue from growing infinitely
+
+ -- NUXBT Releases <nuxbt@hannahis.gay>  Tue, 12 May 2026 02:09:56 +0000
+
 nuxbt (3.2.1-1) noble; urgency=medium
 
   * New release 3.2.1
