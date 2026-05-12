@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v3.3.0 (2026-05-12)
+
+### Features
+
+- **build**: Allow builds for Ubuntu 26.04 ([#56](https://github.com/hannahbee91/nuxbt/pull/56),
+  [`1f2392c`](https://github.com/hannahbee91/nuxbt/commit/1f2392cd1cacaef0180fc2cf81f25a4d28599fcb))
+
+
 ## v3.2.2 (2026-05-12)
 
 ### Bug Fixes
