@@ -1,3 +1,15 @@
+nuxbt (3.3.0-1) noble; urgency=medium
+
+  * New release 3.3.0
+  * ### Features
+  * **build**: Allow builds for Ubuntu 26.04
+    ([#56](https://github.com/hannahbee91/nuxbt/pull/56),
+  *
+    [`1f2392c`](https://github.com/hannahbee91/nuxbt/commit/1f2392cd1cac
+    aef0180fc2cf81f25a4d28599fcb))
+
+ -- NUXBT Releases <nuxbt@hannahis.gay>  Tue, 12 May 2026 02:43:24 +0000
+
 nuxbt (3.2.2-1) noble; urgency=medium
 
   * New release 3.2.2
